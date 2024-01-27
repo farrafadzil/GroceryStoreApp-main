@@ -4,10 +4,10 @@
 REFERENCES: https://youtu.be/uSljGJGSl6w
 
 ## GROUP MEMBERS:
-FARRADINA ALIYA BINTI FADZIL RAFI (B032220036)
-NUR HANI BINTI ABDUL RANI (B032220050)
-NURUL AIN BINTI AMRAN (B032220043)
-SILVY INDRA VISTA BINTI MUJIONO (B032220023)
+1. FARRADINA ALIYA BINTI FADZIL RAFI (B032220036)
+2. NUR HANI BINTI ABDUL RANI (B032220050)
+3. NURUL AIN BINTI AMRAN (B032220043)
+4. SILVY INDRA VISTA BINTI MUJIONO (B032220023)
 
 This project is a mobile application developed using Flutter in Android Studio. The Grocery Store App aims to provide users with a convenient way to manage their grocery shopping needs and making purchases.
 
